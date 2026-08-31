@@ -4,4 +4,4 @@ export const notify = (message, type) => {
     toast[type](message);
 };
 
-export const API_BASE_URL = 'https://localhost:4800';
+export const API_BASE_URL = 'https://mern-task-manager-app-orcin.vercel.app/';
